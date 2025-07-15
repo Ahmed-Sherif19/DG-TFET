@@ -16,7 +16,7 @@ Simulation and characterization of a Double-Gate Tunneling Field-Effect Transist
 - **Channel**: Silicon, 50nm gate length, 10nm thickness
 - **Doping**: p+ source (10¹⁸ cm⁻³), intrinsic channel, n+ drain (10²⁰ cm⁻³)
 
-## Repository Conte## Key Results
+## Key Results
 - **Sub-60 mV/decade subthreshold swing** - Overcomes MOSFET limitations
 - **Band-to-band tunneling operation** - Confirmed via energy band analysis
 - **Steep switching characteristics** - Sharp ON/OFF transition
